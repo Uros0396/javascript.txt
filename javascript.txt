@@ -1,0 +1,14 @@
+Cos'e' un algoritmo?
+Un algoritmo e' un insieme di input che portano ad un output. Gli input sono un insieme di funzioni che portano ad una risoluzione di un problema. 
+
+
+Cos'e' una variabile?
+Una variabile e' una specie di contenitore, al quale daremo un nome, quindi lo defineremo. In questo contenitore inseriremo delle funzioni che ci permetteranno di arrivare al risultato desiderato. Tuttavia abbiamo 3 tipi di variabili:
+1. VAR 
+2. LET
+3. CONST
+La prima non e' quasi piu' in uso, per quanto riguarda invece let e const hanno uno scope tipo block o function, la differenza tra le due sta che, la prima cioe' let e' riutilizzabile, mentre la seconda no. 
+
+
+Undefined e null sono la stessa cosa?
+no, non sono la stessa cosa, per esempio se ho "const test = null" vuol dire che la variabile non ha valore. E' come se avessimo un contenitore vuoto. Undefined ha un valore ma non definito.
